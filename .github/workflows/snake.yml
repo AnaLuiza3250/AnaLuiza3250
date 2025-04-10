@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza diariamente
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Baixa o repositório
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      # Gera os arquivos da cobrinha
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: AnaLuiza3250 
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      # Faz o upload dos arquivos gerados
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
