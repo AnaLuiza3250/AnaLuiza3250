@@ -1,7 +1,11 @@
-<h1 align="center" style="color:#ff6680;">Hello! I'm Ana 💻</h1>
-<h3 align="center" style="color:#7a42f4;">I'm an IT girl!</h3>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=FF6680&center=true&vCenter=true&width=600&lines=Hello!+I'm+Ana+💻;I'm+an+IT+girl!+💖)
+<!-- Banner estilizado -->
+<h1 align="center" style="font-family:'Poppins', sans-serif; font-size:40px; color:#ff4da6; font-weight:800;">
+  Hello! I'm Ana 💻
+</h1>
 
+<h3 align="center" style="font-family:'Fira Code', monospace; color:#8a2be2; font-size:22px; font-style:italic;">
+  I'm an IT girl! 💖
+</h3>
 
 <br />
 
