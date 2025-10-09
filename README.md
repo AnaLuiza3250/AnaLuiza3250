@@ -20,10 +20,10 @@ I'm a fanatic and student of IT and it ramifications
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/6c6508f5c4f9d6c0a6f8b7c4f3b6f9e3f3c3f3f3/topics/python/python.png"></code>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/AnaLuiza3250/DS-WEB"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaLuiza3250&show_icons=true&theme=shadow_purple" />
+</a> | <a href="https://github.com/AnaLuiza3250/DS-WEB"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaLuiza3250&show_icons=true&theme=shadow_purple"/></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
 
 <br />
 <br />
