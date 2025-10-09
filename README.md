@@ -11,8 +11,6 @@ I'm a fanatic and student of IT and it ramifications
 
 - 🐍 Robotics Team Member - Mega Snakes - [Follow us](https://www.instagram.com/megasnakes_ftc/)
 
-- 
-
 - 💬 Ask me anything about FLL, FTC, OBR and it ramifications [here]()
 
 <code><img height="20" alt="cpp" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
