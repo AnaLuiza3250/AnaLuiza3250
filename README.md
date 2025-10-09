@@ -2,7 +2,6 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&weight=800&size=19&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=false&width=435&separator=%3C&lines=+I'm+an+IT+girl!+;)" alt="Typing SVG" /></a></p>
 
-<br />
 
 I'm a fanatic and student of IT and it ramifications
 
