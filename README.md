@@ -1,11 +1,4 @@
-<!-- Banner estilizado -->
-<h1 align="center" style="font-family:'Poppins', sans-serif; font-size:40px; color:#ff4da6; font-weight:800;">
-  Hello! I'm Ana 💻
-</h1>
-
-<h3 align="center" style="font-family:'Fira Code', monospace; color:#8a2be2; font-size:22px; font-style:italic;">
-  I'm an IT girl! 💖
-</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&pause=1000&color=FF4DA6&center=true&vCenter=true&width=435&lines=Hello!+I'm+Ana" alt="Typing SVG" /></a>
 
 <br />
 
