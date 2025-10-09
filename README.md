@@ -1,27 +1,37 @@
-👋 Olá! Eu sou a Ana. Bem-vindo ao meu perfil no GitHub! 
-🤖 Atualmente estudanto: Desenvolvimento de Sistemas - Senai 
-💻 Aprendendo mais sobre: Linguagens de Programação 
-📫 Como me encontrar: @ana_alfa._
+<p align="center"><a href="https://AnaLuiza3250.github.io"><img width="80%" alt="Hello, I'm Ana. I'm a IT girl!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
+I'm a fanatic and student of IT and it ramifications
+
+**About me**
+
+- 🖥️ Studying System Development
+
+- 🐍 Robotics Team Member - Mega Snakes - [Follow us](https://www.instagram.com/megasnakes_ftc/)
+
+- 
+
+- 💬 Ask me anything about FLL, FTC, OBR and it ramifications [here]()
+
+<code><img height="20" alt="cpp" src="https://raw.githubusercontent.com/github/explore/6c6508f5c4f9d6c0a6f8b7c4f3b6f9e3f3c3f3f3/topics/cpp/cpp.png"></code>
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/6c6508f5c4f9d6c0a6f8b7c4f3b6f9e3f3c3f3f3/topics/html/html.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/6c6508f5c4f9d6c0a6f8b7c4f3b6f9e3f3c3f3f3/topics/css/css.png"></code>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/6c6508f5c4f9d6c0a6f8b7c4f3b6f9e3f3c3f3f3/topics/python/python.png"></code>
 
 
-## Minhas estatísticas
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaLuiza3250&show_icons=true&theme=shadow_purple)
+#### Top Repositories
 
-## Minhas redes
 
-<ul>
-  <li>
-    <img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="18" alt="Linkedin"> 
-    <a href="https://www.linkedin.com/in/iurygdeoliveira/" target="_blank" title="My LinkedIn">LinkedIn</a>
-  </li>
-</ul>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
-## Linguagens e Tecnologias
-
-<div> 
-  <a href="https://instagram.com/ana_alfa._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ferreiraanaluiza346@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-##
+<br />
+<br />
