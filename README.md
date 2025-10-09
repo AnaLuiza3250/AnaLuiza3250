@@ -1,4 +1,7 @@
-<p align="center"><a href="https://AnaLuiza3250.github.io"><img width="80%" alt="Hello, I'm Ana. I'm a IT girl!" src="./assets/gh-readme-header.png" /></a></p>
+<h1 align="center" style="color:#ff6680;">Hello! I'm Ana 💻</h1>
+<h3 align="center" style="color:#7a42f4;">I'm an IT girl!</h3>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=FF6680&center=true&vCenter=true&width=600&lines=Hello!+I'm+Ana+💻;I'm+an+IT+girl!+💖)
+
 
 <br />
 
