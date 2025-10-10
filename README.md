@@ -19,7 +19,7 @@ I'm a fanatic and student of IT and it ramifications
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 
 
-| <a href="https://github.com/AnaLuiza3250/DS-WEB"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaLuiza3250&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ana Luiza's github stats" /></a> | <a href="https://github.com/AnaLuiza3250/DS-WEB"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLuiza3250&layout=compact&theme=buefy&hide_border=true" /></a>  |
+| <a href="https://github.com/AnaLuiza3250/DS-WEB"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaLuiza3250&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ana Luiza's github stats" /></a> | <a href="https://github.com/AnaLuiza3250/DS-WEB"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLuiza3250&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
