@@ -26,4 +26,7 @@ I'm a fanatic and student of IT and it ramifications
 <br />
 <br />
 
-![Snake animation](https://github.com/AnaLuiza3250/AnaLuiza3250/blob/output/github-contribution-grid-snake.svg)
+
+
+![GitHub Snake Light](https://github.com/AnaLuiza3250/AnaLuiza3250/blob/output/github-snake.svg)
+![GitHub Snake Dark](https://github.com/AnaLuiza3250/AnaLuiza3250/blob/output/github-snake-dark.svg?palette=github-dark)
