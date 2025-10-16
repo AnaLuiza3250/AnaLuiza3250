@@ -26,8 +26,4 @@ I'm a fanatic and student of IT and it ramifications
 <br />
 <br />
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaLuiza3250/AnaLuiza3250/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnaLuiza3250/AnaLuiza3250/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnaLuiza3250/AnaLuiza3250/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/AnaLuiza3250/AnaLuiza3250/blob/output/github-contribution-grid-snake.svg)
