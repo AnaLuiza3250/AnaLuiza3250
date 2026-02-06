@@ -35,6 +35,6 @@
 
 <br>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github.com/AnaLuiza3250/AnaLuiza3250/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-</div>
+</div>-->
